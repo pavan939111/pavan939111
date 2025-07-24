@@ -1,38 +1,36 @@
 # 👋 Hi there, I'm Pavan Kumar (pavan939111)
 
-🎯 Passionate full-stack developer focused on building practical, real-world solutions using **React**, **Node.js**, **MongoDB**, and **Python**.  
-🔬 Strong interest in data analytics, IoT integration, and cloud deployment.  
-💼 Currently working on full-stack web apps and IoT projects for academic and personal growth.
+🎯 I'm a **Full Stack Web Developer** passionate about building real-world solutions using **React**, **Node.js**, **MongoDB**, and **Python**.  
+📊 Currently focused on learning **Data Analytics** and enhancing my skills in data-driven development.  
+🎓 Certified in **Python** and **Java** from **Infosys Springboard**.
 
 ---
 
 ## 🚀 What I Do:
-- 📱 Build responsive frontends with React and vanilla CSS
-- 🔧 Develop RESTful APIs using Express.js & MongoDB
-- 📊 Analyze data using Python (Pandas, NumPy, Matplotlib, Seaborn)
-- 🤖 Explore IoT systems with ESP32, Blynk, and real-time control
-- 🧠 Work on smart assistant and interest-tracking web applications
+- 📱 Build responsive and interactive frontends using React and plain CSS
+- 🗃️ Manage NoSQL databases with MongoDB for efficient data storage
+- 📈 Analyze and visualize data using Python libraries like Pandas, NumPy, and Matplotlib
+- 🧠 Design smart web apps for finance, productivity, and education domains
 
 ---
 
 ## 📌 Current Projects:
-- **📚 Book Store Web App** – Full-stack project with login, book management, and MongoDB Atlas integration  
-- **💸 Interest Tracker App** – Finance app to track money lent/taken with interest and full CRUD functionality  
-- **🛞 IoT Go-Kart** – Mobile-controlled go-kart using ESP32, motor drivers, and Blynk
+- **📚 Book Store Web App** – A full-stack application with login, registration, book listing, and MongoDB Atlas integration  
+- **💸 Interest Tracker App** – A finance management system to track money lent/taken, with daily interest calculation and CRUD operations  
+- **🌐 Go-Kart Portfolio Website** – A personal project to showcase my IoT-based go-kart work, its features, and technical breakdown in a dedicated portfolio site
 
 ---
 
 ## 🌱 Currently Learning:
-- Advanced MongoDB (Aggregation, Indexing)
-- TypeScript & Next.js
-- Deployment using Render & Vercel
-
+- Data Analytics (EDA, data visualization, statistical methods)
+- full stack development (complete backend)
+  
 ---
 
 ## 📫 Let's Connect:
 - 📧 Email: kunukuntlapavankumar0074@gmail.com  
-- 🌐 Portfolio: _coming soon_
-- 💼 LinkedIn / Resume: _[Add your links here]_
+- 🌐 Portfolio: 
+- 💼 LinkedIn / Resume: 
 
 ---
 
