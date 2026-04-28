@@ -1,85 +1,345 @@
-# 👋 Hi there, I'm Pavan Kumar (pavan939)
+<div align="center">
 
-🎯 Data Analyst | Business Analyst | Power BI Developer  
-💻 Former Full Stack Developer with a strong foundation in web technologies  
-📊 Passionate about turning data into meaningful business insights  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:24243e&height=210&section=header&text=Pavan%20Kumar%20Kunukuntla&fontSize=44&fontColor=ffffff&fontAlignY=40&desc=Agentic%20AI%20Engineer%20%E2%80%A2%20Multi-Agent%20Systems%20%E2%80%A2%20RAG%20Pipelines&descAlignY=62&descSize=15&animation=fadeIn" width="100%"/>
 
----
+</div>
 
-## 👨‍💻 About Me
+<div align="center">
 
-I am a data-driven professional with hands-on experience in **Data Analytics, Business Intelligence, and Dashboard Development**, supported by a solid background in **Full Stack Web Development**.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+Agentic+AI+Systems+That+Ship+to+Production+%F0%9F%9A%80;Multi-Agent+Orchestration+%7C+RAG+%7C+Multimodal+AI;LangChain+%C2%B7+LangGraph+%C2%B7+CrewAI+%C2%B7+AutoGen+%C2%B7+MCP;Turning+Complex+AI+Pipelines+into+Real+Business+Value)](https://git.io/typing-svg)
 
-I specialize in **Power BI, SQL, Python, and Advanced Excel** for exploratory data analysis (EDA), KPI tracking, reporting, and decision support. My goal is to bridge the gap between **business requirements and technical solutions** by delivering clear, actionable insights.
+<br/>
 
-I have worked on real-world projects across **healthcare, finance, telecom, retail, and sports analytics**, and I enjoy solving business problems using data.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-kumar-kunukuntla-789990294)
+[![Email](https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavankumarkunukuntla@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-pavan939-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pavan939)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B91%209391118474-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919391118474)
 
----
+<br/>
 
-## 🚀 What I Do
+![Profile Views](https://komarev.com/ghpvc/?username=pavan939&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)
 
-- 📊 Perform **Exploratory Data Analysis (EDA)** using SQL and Python  
-- 📈 Build interactive dashboards using **Power BI (DAX, Power Query)**  
-- 🗃️ Design **data models and star schemas** for analytics use cases  
-- 📑 Translate business requirements into reports, KPIs, and insights  
-- 🌐 Apply full stack knowledge (React, Django, MongoDB/MySQL) to data-driven applications  
+</div>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🟢 Open to Work
 
-**Data Analytics & BI**  
-- Power BI, DAX, Power Query, KPI Development, Data Visualization  
+<div align="center">
 
-**Data Analysis & Programming**  
-- SQL, Python (Pandas, NumPy, Matplotlib), Statistical Analysis  
+> **Actively seeking full-time, internship, and contract roles in Agentic AI, AI Engineering, Data Science, and Backend AI Systems.**
 
-**Advanced Excel**  
-- Power Query, Pivot Tables, Automation, Large Dataset Handling (50K+ rows)  
+| 🌍 Remote | 🏢 On-site | 📍 Preferred Locations |
+|:---------:|:----------:|:----------------------:|
+| ✅ Available | ✅ Available | Hyderabad · Bengaluru · Pan-India |
 
-**Databases & Data Warehousing**  
-- MySQL, SQL Server, Star Schema, ETL Concepts  
+**Target Roles:** `AI Engineer` · `Agentic AI Developer` · `ML Engineer` · `Data Scientist` · `Backend AI Developer`
 
-**Web & Tools**  
-- React, Django, Firebase, Git, GitHub, REST APIs  
-
-**Soft & Business Skills**  
-- Problem Solving, Stakeholder Communication, Requirement Analysis, Time Management  
+</div>
 
 ---
 
-## 📌 Featured Projects
+## 👤 About Me
 
-- 📊 **Uber Analytics Dashboard** – Power BI dashboard analyzing 50K+ trip records  
-- 💼 **Smart Biz Analytics** – SaaS-style business analytics platform for SMEs  
-- 📉 **Customer Churn Analysis** – EDA using SQL & Python to identify churn drivers  
-- 🏥 **Hospital Analytics (Microsoft Elevate)** – Data warehouse + BI dashboards  
-- 🌐 **Full Stack Applications** – React + Django projects with analytics-ready databases  
+I'm a **final-year B.Tech CSE student at RGUKT Basar** and an **Agentic AI Engineer** who builds systems that actually work — not just in notebooks, but in production pipelines with traceable reasoning, multimodal inputs, and measurable business impact.
 
----
-
-## 🏆 Achievements
-
-- 🥇 **Smart India Hackathon (SIH) – 1st Prize Winner**  
-  AI-driven sports analytics solution for performance insights and decision support  
-- ✅ Completed 6+ end-to-end analytics projects across multiple domains  
+- 🤖 Specialise in **multi-agent orchestration, RAG architectures, and multimodal AI systems**
+- 🔗 Built 5+ end-to-end AI systems spanning **voice, vision, language, and data pipelines**
+- 🏆 **Smart India Hackathon Winner** · **CineAI Hackathon 6th Place (All-India)**
+- 🏢 Interned at **Microsoft Elevate** (AI & Data Pipelines) and **Infosys Springboard** (Python Full Stack)
+- 📚 Certified in **IBM RAG & Agentic AI**, **ML Specialization**, and **Deep Learning** (DeepLearning.AI)
+- 🌱 Currently exploring: **SLM fine-tuning · RL for agents · MCP protocol**
 
 ---
 
-## 🌱 Currently Learning
+## 🧠 Technical Skills
 
-- Business Analysis methodologies  
-- Advanced SQL & Power BI optimization  
-- Data storytelling & stakeholder reporting  
+### 🤖 Agentic AI & LLM Systems
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF0080?style=flat-square&logoColor=white)
+![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP_Protocol-6366F1?style=flat-square&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-00BFFF?style=flat-square&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
+![Llama 3.1](https://img.shields.io/badge/Llama%203.1-4B0082?style=flat-square&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)
+
+### 👁️ Multimodal AI
+![CLIP](https://img.shields.io/badge/CLIP-0ea5e9?style=flat-square&logoColor=white)
+![BLIP](https://img.shields.io/badge/BLIP-6366f1?style=flat-square&logoColor=white)
+![EasyOCR](https://img.shields.io/badge/EasyOCR-f97316?style=flat-square&logoColor=white)
+![Stability AI](https://img.shields.io/badge/Stability%20AI%20SDXL-FFDD00?style=flat-square&logoColor=black)
+![Faster-Whisper](https://img.shields.io/badge/Faster--Whisper-34d399?style=flat-square&logoColor=black)
+
+### 🔬 Machine Learning & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logoColor=white)
+
+### 🔧 Backend & Frameworks
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+### 🗄️ Databases & DevOps
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
-## 📫 Let’s Connect
+## 🚀 Featured Projects
 
-- 📧 Email: pavankumarkunukuntla@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/pavan-kumar-kunukuntla-789990294  
-- 💻 GitHub: https://github.com/pavan939  
+### 🧾 TaxSetu — Multi-Agent GST Compliance Platform
+> `Feb 2026` · Build For India, KSUM Kerala &nbsp;|&nbsp; `React` `Vite` `Gemini API` `Firebase` `Node.js` `Cloud Functions`
+
+```mermaid
+flowchart LR
+    A[📄 Invoice · CSV · Voice] --> B[🔍 OCR Ingestion]
+    B --> C[🧮 GST Computation]
+    C --> D[🔗 ITC Reconciliation]
+    D --> E[✅ Compliance Validation]
+    E --> F[⚠️ Anomaly Detection]
+    F --> G[📊 Audit-Ready Report]
+
+    style A fill:#1e1b4b,color:#a5b4fc,stroke:#6366f1
+    style G fill:#14532d,color:#86efac,stroke:#22c55e
+    style B fill:#2e1065,color:#e9d5ff,stroke:#9333ea
+    style C fill:#2e1065,color:#e9d5ff,stroke:#9333ea
+    style D fill:#2e1065,color:#e9d5ff,stroke:#9333ea
+    style E fill:#2e1065,color:#e9d5ff,stroke:#9333ea
+    style F fill:#2e1065,color:#e9d5ff,stroke:#9333ea
+```
+
+- 🤖 **5-agent pipeline** with structured JSON I/O (decision · reasoning · confidence · notify-flags) producing fully traceable, audit-ready workflows
+- ⚡ **~70% reduction** in manual GST review effort across OCR ingestion, reconciliation, and compliance validation stages
+- 🗣️ **Multilingual voice-first** accessibility layer targeting the 88% of Indian MSMEs underserved by English-only platforms
+- 📥 **Multimodal ingestion** — scanned invoices, CSV/Excel, and voice transcripts with automated GSTIN validation
+- 🏢 Deployed to **3+ MSME pilot users** with automated compliance summaries, dashboards, and anomaly reports
 
 ---
 
-> *“Without data, you're just another person with an opinion.”* – W. Edwards Deming
+### 🎬 VisionSync — Agentic Film Pre-Production Platform
+> `Jan 2026` · CineAI Hackathon — **6th Place, All-India** &nbsp;|&nbsp; `React` `TypeScript` `Express` `Gemini Vision` `Stability AI SDXL` `Firestore`
+
+```mermaid
+flowchart LR
+    S[🎭 Raw Screenplay] --> A[Story Structure\n& Genre Analysis]
+    A --> B[Character Arc\nMapping]
+    B --> C[Scene Continuity\nValidation · VLM]
+    C --> D[Production Feasibility\nScoring]
+    D --> E[Storyboard Generation\nSDXL]
+    E --> F[📋 Shoot-Ready Plan]
+
+    style S fill:#1c1917,color:#fcd34d,stroke:#f59e0b
+    style F fill:#052e16,color:#86efac,stroke:#16a34a
+    style A fill:#292524,color:#fde68a,stroke:#d97706
+    style B fill:#292524,color:#fde68a,stroke:#d97706
+    style C fill:#292524,color:#fde68a,stroke:#d97706
+    style D fill:#292524,color:#fde68a,stroke:#d97706
+    style E fill:#292524,color:#fde68a,stroke:#d97706
+```
+
+- 🎥 **~60% reduction** in manual storyboard review cycles via vision-language scene-level continuity evaluation
+- ⏱️ Compressed **screenplay-to-production-plan** from days to minutes by automating 6 manual pre-production stages in a single pipeline
+- 📋 Produced structured breakdowns: shot lists · scene metadata · character presence maps · budget estimates · location requirements
+- 🖼️ Generated **AI storyboard visuals** directly from screenplay text using Stability AI SDXL
+
+---
+
+### 🎙️ Nina — AI Voice Navigation SDK
+> `2025` &nbsp;|&nbsp; `TypeScript SDK` `FastAPI` `Groq API` `Llama 3.1` `Supabase`
+
+```mermaid
+flowchart LR
+    U[🗣️ Voice Command] --> D{Fast-Path\nCheck}
+    D -- ✅ ~60% queries\n~5ms --> R[⚡ Instant Execution]
+    D -- ❓ Ambiguous --> L[🦙 Llama 3.1\nInference]
+    L --> M[🧠 Context Memory\n& Task Chaining]
+    M --> R
+    R --> W[🌐 DOM Navigation\nForms · Routing · Elements]
+
+    style U fill:#0f172a,color:#7dd3fc,stroke:#38bdf8
+    style R fill:#14532d,color:#86efac,stroke:#22c55e
+    style L fill:#3b0764,color:#d8b4fe,stroke:#a855f7
+    style D fill:#1e3a5f,color:#bae6fd,stroke:#38bdf8
+    style M fill:#1e3a5f,color:#bae6fd,stroke:#38bdf8
+    style W fill:#14532d,color:#86efac,stroke:#22c55e
+```
+
+- 🔌 **Single script-tag SDK** — voice-enables any web app with zero configuration required
+- ⚡ Hybrid inference: **deterministic fast-path (~5ms)** covers ~60% of queries; Llama 3.1 handles ambiguous multi-step commands
+- 🎯 **~50% fewer user interaction steps** across 4+ web platforms
+- 🔐 Multi-tenant SaaS with **SHA-256 API key hashing**, Row Level Security, and Supabase Realtime live dashboard
+
+---
+
+### 🎧 PodNotes — Multimodal Knowledge Extraction Platform
+> `2025` &nbsp;|&nbsp; `FastAPI` `Faster-Whisper` `LangChain` `Gemini` `FAISS` `React` `TypeScript` `Firebase`
+
+```mermaid
+flowchart LR
+    Y[▶️ YouTube URL] --> E[Audio Extraction\nyt-dlp · FFmpeg]
+    E --> T[Transcription\nFaster-Whisper]
+    T --> C[Semantic Chunking\n& Embeddings]
+    C --> F[(FAISS\nVector Store)]
+    F --> Q[RAG Q&A\nLangChain]
+    T --> G[Gemini\nSummarization]
+    G --> N[📒 Structured Notes\n+ Persistent Library]
+    Q --> N
+
+    style Y fill:#1a0a00,color:#fb923c,stroke:#f97316
+    style N fill:#052e16,color:#86efac,stroke:#16a34a
+```
+
+- 🔄 **End-to-end pipeline**: video → audio → transcript → embeddings → structured notes in a single automated flow
+- 💬 **RAG-powered Q&A** with context memory and dynamic prompt routing via LangChain + FAISS vector search
+- 📚 Firebase-backed **persistent note library** with semantic search across all saved knowledge artifacts
+
+---
+
+### 🖼️ AI Semantic Photo Gallery — Multimodal Image Retrieval
+> `2025` &nbsp;|&nbsp; `Python` `FastAPI` `CLIP` `BLIP` `EasyOCR` `FAISS` `NumPy`
+
+- 🔍 Semantic search across **1,000+ images** using CLIP visual embeddings + BLIP captions + EasyOCR text extraction for enriched metadata indexing
+- ⚡ Async ingestion pipeline with **~40% faster** batch indexing via hybrid retrieval (visual + OCR + metadata filtering)
+- 🏷️ LLM-based action layer enabling **contextual grouping, auto-tagging, and intelligent image organisation**
+
+---
+
+## 💼 Experience
+
+### 🔵 AI & Data Pipeline Intern — Microsoft Elevate
+`Dec 2025 – Jan 2026`
+
+- 🏗️ Architected end-to-end **healthcare data ingestion pipeline** supporting structured + semi-structured sources across 5+ downstream analytics workflows
+- 🔎 Built **embedding-based semantic analytics** layer for similarity search and pattern discovery — **~35% reduction** in manual data exploration time
+- ⚡ Optimised query execution and processing workflows — **40% reduction** in pipeline latency
+- 📊 Designed analytics-ready schema improving reporting consistency and decision-support for **3+ internal teams**
+
+---
+
+### 🟡 Python Full Stack Intern — Infosys Springboard
+`Nov 2025 – Jan 2026`
+
+- 🌐 Delivered Django full-stack application with **20+ REST API endpoints** + PostgreSQL backend for enterprise workflow automation
+- 🗄️ Designed normalised schema across **8+ tables** optimised for analytics, reporting, and transactional consistency
+- 🔐 Implemented **RBAC across 3 user tiers** with structured approval workflow and comprehensive audit logging
+- ✅ Multi-layer validation framework + automated business triggers — **~30% reduction** in manual processing
+
+---
+
+## 🏆 Achievements & Competitions
+
+| 🏅 Competition | Result | 📍 Venue | 📅 Date |
+|---|---|---|---|
+| Smart India Hackathon (Internal) | **🥇 Winner** | RGUKT Basar | 2025 |
+| CineAI Hackathon — Lorven AI | **🏅 6th Place (All-India)** | T-Works, Hyderabad | Jan 2026 |
+| Build For India — KSUM Kerala | Participant | KSUM, Kochi | Feb 2026 |
+| TuteDude Hackathon | Participant | Online | 2025 |
+
+---
+
+## 📜 Certifications
+
+| 🎓 Certification | 🏢 Issuer | Platform |
+|---|---|---|
+| **IBM RAG & Agentic AI Professional Certificate** | IBM | Coursera |
+| **Machine Learning Specialization** | DeepLearning.AI | Coursera |
+| **Deep Learning Specialization** | DeepLearning.AI | Coursera |
+
+---
+
+## 🎓 Education
+
+```
+🎓  B.Tech (6-Year Integrated) — Computer Science & Engineering
+    Rajiv Gandhi University of Knowledge Technologies (RGUKT), Basar
+    2021 – 2027
+
+    PUC CGPA  : 9.50 / 10
+    B.Tech 2Y : 8.92 / 10
+    3rd Year  : Results Awaited
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=pavan939&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavan939&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c4b5fd"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pavan939&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=c4b5fd"/>
+
+</div>
+
+---
+
+## 🌱 Currently Exploring
+
+```mermaid
+quadrantChart
+    title Focus Areas — Q2 2026
+    x-axis Foundational --> Cutting Edge
+    y-axis Learning --> Applying
+    quadrant-1 🔥 Building Now
+    quadrant-2 📚 Deep Dive
+    quadrant-3 👀 On Radar
+    quadrant-4 🔬 Experimenting
+    Advanced RAG Techniques: [0.80, 0.88]
+    MCP Protocol: [0.85, 0.82]
+    SLM Fine-tuning: [0.88, 0.60]
+    RL for Agents: [0.90, 0.50]
+    Agentic Memory Systems: [0.75, 0.70]
+    Production MLOps: [0.55, 0.55]
+    Multi-modal Fusion: [0.70, 0.75]
+```
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+| Platform | Link |
+|:---:|:---|
+| 📧 **Email** | [pavankumarkunukuntla@gmail.com](mailto:pavankumarkunukuntla@gmail.com) |
+| 💼 **LinkedIn** | [linkedin.com/in/pavan-kumar-kunukuntla-789990294](https://www.linkedin.com/in/pavan-kumar-kunukuntla-789990294) |
+| 💻 **GitHub** | [github.com/pavan939](https://github.com/pavan939) |
+| 📞 **WhatsApp** | [+91 9391118474](https://wa.me/919391118474) |
+
+<br/>
+
+> 💡 *Available for full-time roles, internships, freelance AI projects, and open-source collaborations.*
+> *Response time: within 24 hours.*
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-kumar-kunukuntla-789990294)
+[![Email](https://img.shields.io/badge/Send%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavankumarkunukuntla@gmail.com)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,40:302b63,100:0f0c29&height=130&section=footer" width="100%"/>
+
+</div>
